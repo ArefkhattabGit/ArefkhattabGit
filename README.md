@@ -4,9 +4,7 @@
 <h3 align="center">Mobile App Developer | Flutter Expert </h3>
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-(www.linkedin.com/in/arefkhattab)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/arefkhattab)
 ## About Me
 
 - Professional Flutter Developer building scalable mobile applications
