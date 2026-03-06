@@ -15,7 +15,7 @@
 
 ---
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,Apis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,gitlab)](https://skillicons.dev)
 
 ## Architecture & Patterns
 
