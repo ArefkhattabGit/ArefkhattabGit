@@ -4,8 +4,6 @@
 <h3 align="center">Mobile App Developer | Flutter Expert </h3>
 
 ---
-## 🌐 Connect With Me
-- 📧 Email: aref.khattab22@gmail.com <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/arefkhattab)
 ## About Me
 
@@ -57,3 +55,7 @@
 - Performance Optimization
 - Clean & Testable Code
 - CI/CD for Mobile Apps
+
+## 🌐 Connect With Me
+- 📧 Email: aref.khattab22@gmail.com <br>
+
