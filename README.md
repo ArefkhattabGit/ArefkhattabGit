@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, I'm Aref Khattab</h1>
+<h1 align="center">I'm Aref Khattab</h1>
 <h3 align="center">Mobile App Developer | Flutter Expert </h3>
 
 ---
