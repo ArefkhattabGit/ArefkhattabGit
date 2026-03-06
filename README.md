@@ -14,6 +14,8 @@
 - Focused on performance, clean code, and smooth UI/UX
 
 ---
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,Apis)](https://skillicons.dev)
 
 ## Architecture & Patterns
 
